@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mapbox Test</string>
+    <string name="fragment_tag">com.mapbox.map</string>
+    <string name="mapbox_token">pk.eyJ1IjoieS1vIiwiYSI6ImNqYTE3NXllczF5dHcyemw3bTg5azRyM3QifQ.8A98c8jHL3bcS59yjA5T4g</string>
+</resources>
